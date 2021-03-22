@@ -1,13 +1,13 @@
 {
   "Testobject": {
-    "FirstName": "string",
-    "LastName": "string",
-    "Age": "int",
-    "BirthDay": "date",
-    "Address": "boolean",
-    "comments": "Comment[]"
+    "firstname": "string",
+    "lastname": "string",
+    "age": "int",
+    "birthDay": "date",
+    "address": "boolean",
+    "comments": "comment[]"
   },
-  "Comment": {
+  "comment": {
     "body": "string",
     "post": "Post"
   }
