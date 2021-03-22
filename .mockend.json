@@ -3,7 +3,7 @@
     "FirstName": "string",
     "LastName": "string",
     "Age": "int",
-    "BirthDay: "date",
+    "BirthDay": "date",
     "Address": "string",
     "comments": "Comment[]"
   },
