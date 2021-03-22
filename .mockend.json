@@ -5,9 +5,9 @@
     "age": "int",
     "birthDay": "date",
     "address": "boolean",
-    "comments": "comment[]"
+    "comments": "Comment[]"
   },
-  "comment": {
+  "Comment": {
     "body": "string",
     "post": "Post"
   }
