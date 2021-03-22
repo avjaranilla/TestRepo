@@ -1,10 +1,9 @@
 {
   "Testobject": {
-    "firstname": "string",
-    "lastname": "string",
+    "name" : "string",
     "age": "int",
     "birthDay": "date",
-    "address": "boolean",
+    "status" : "boolean",
     "comments": "Comment[]"
   },
   "Comment": {
