@@ -4,7 +4,7 @@
     "LastName": "string",
     "Age": "int",
     "BirthDay": "date",
-    "Address": "string",
+    "Address": "boolean",
     "comments": "Comment[]"
   },
   "Comment": {
