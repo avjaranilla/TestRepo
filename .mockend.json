@@ -2,7 +2,7 @@
   "Testobject": {
     "name" : "string",
     "age": "int",
-    "birthDay": "date",
+    "birthday": "date",
     "status" : "boolean",
     "comments": "Comment[]"
   },
