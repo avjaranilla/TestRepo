@@ -1,9 +1,10 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
+  "TestObject": {
+    "FirstName": "string",
+    "LastName": "string",
+    "Age": "int",
+    "BirthDay: "date",
+    "Address": "string",
     "comments": "Comment[]"
   },
   "Comment": {
