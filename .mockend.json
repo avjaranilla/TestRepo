@@ -1,5 +1,5 @@
 {
-  "TestObject": {
+  "testobject": {
     "FirstName": "string",
     "LastName": "string",
     "Age": "int",
