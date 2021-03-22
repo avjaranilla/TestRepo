@@ -1,6 +1,6 @@
 {
   "Testobject": {
-    "fname": "string",
+    "fname": "aa",
     "contacts": "Contact[]"
   },
   "Contact": {
