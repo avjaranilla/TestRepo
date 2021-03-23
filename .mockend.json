@@ -1,26 +1,8 @@
 {
-  "Data": {
-    "posts": [
-      {
-        "title": "xhZctrcDeP",
-        "views": 98
-      },
-      {
-        "title": "oOoKawNYOn",
-        "views": 96
-      },
-      {
-        "title": "YXCyIpoJdV",
-        "views": 96
-      },
-      {
-        "title": "NMIpwlzZJt",
-        "views": 96
-      },
-      {
-        "title": "kitVecwNDM",
-        "views": 95
-      }
-    ]
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
   }
 }
