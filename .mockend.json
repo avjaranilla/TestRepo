@@ -1,8 +1,7 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+  "Inquiry": {
+    "name": "string",
+    "message": "string",
+    "amount": "number"
   }
 }
