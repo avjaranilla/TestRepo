@@ -1,9 +1,8 @@
 {
   "Inquiry": 
-  [
     {
     "name": "testing",
     "message": "success",
     "amount": 13000
-  ]
+    }
 }
