@@ -3,6 +3,6 @@
   {
     "name": "string",
     "message": "string",
-    "amount": "number"
+    "amount": "int"
   }
 }
