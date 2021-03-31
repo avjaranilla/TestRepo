@@ -1,8 +1,8 @@
 {
   "Inquiry": 
   {
-    "name": "string",
-    "message": "string",
-    "amount": "int"
+    "name":"string",
+    "message":"string",
+    "amount":"int"
   }
 }
