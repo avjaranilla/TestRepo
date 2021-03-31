@@ -2,6 +2,7 @@
   "Inquiry": 
   {
     "name":"string",
+    "account":"int",
     "message":"string",
     "amount":"int"
   }
