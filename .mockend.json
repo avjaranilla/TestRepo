@@ -1,8 +1,7 @@
 {
-  "Inquiry": 
-    {
-    "name": "testing",
+  "Inquiry": {
+    "name": "string",
     "message": "success",
-    "amount": 13000
+    "amount": "number"
     }
 }
