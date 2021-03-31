@@ -2,6 +2,6 @@
   "Inquiry": {
     "name": "string",
     "message": "success",
-    "amount": "number"
+    "amount": "100"
     }
 }
