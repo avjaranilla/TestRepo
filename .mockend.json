@@ -1,7 +1,7 @@
 {
   "Inquiry": {
     "name": "string",
-    "message": "success",
+    "message": "string",
     "amount": "number"
     }
 }
