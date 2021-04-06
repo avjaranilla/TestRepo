@@ -4,11 +4,11 @@
 		{"id": 2, "title": "Post 2", "Description": "test description 2" },
 		{"id": 3, "title": "Post 3", "Description": "test description 3" }
 	],
-	"comments":[
+	"comments": [
 		{"id": 1, "body": "comment 1", "postId": 1 },
 		{"id": 2, "body": "comment 2", "postId": 1 }
 	],
-	"profile":{
+	"profile": {
 		"name": "Profile 1"
 	}
 }
