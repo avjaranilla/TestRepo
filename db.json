@@ -1,6 +1,6 @@
 {
 	"totalize_api_method": [
-		{"agg_profile_id": 1,
+		{"id": 1,
 		 "branch_code": "AAA",
 		 "datetime_from": "2021-01-01 00:00:00",
 		 "datetime_to": "2021-01-31 00:00:00",
@@ -8,7 +8,7 @@
 			 {"total_fee": 100.00, 
 			  "total_principal" : 10000.00}
 		 ]},
-		{"agg_profile_id": 2,
+		{"id": 2,
 		 "branch_code": "AAA",
 		 "datetime_from": "2021-02-01 00:00:00",
 		 "datetime_to": "2021-03-31 00:00:00",
@@ -16,7 +16,7 @@
 			 {"total_fee": 200.00, 
 			  "total_principal" : 30000.00}
 		 ]},
-		{"agg_profile_id": 3,
+		{"id": 3,
 		 "branch_code": "BBB",
 		 "datetime_from": "2021-01-01 00:00:00",
 		 "datetime_to": "2021-01-31 00:00:00",
@@ -24,7 +24,7 @@
 			 {"total_fee": 300.00, 
 			  "total_principal" : 30000.00}
 		 ]},
-		{"agg_profile_id":4,
+		{"id":4,
 		 "branch_code": "BBB",
 		 "datetime_from": "2021-02-01 00:00:00",
 		 "datetime_to": "2021-03-31 00:00:00",
@@ -32,7 +32,7 @@
 			 {"total_fee": 400.00, 
 			  "total_principal" : 40000.00}
 		 ]},
-		{"agg_profile_id": 5,
+		{"id": 5,
 		 "branch_code": "CCC",
 		 "datetime_from": "2021-01-01 00:00:00",
 		 "datetime_to": "2021-01-31 00:00:00",
@@ -40,7 +40,7 @@
 			 {"total_fee": 500.00, 
 			  "total_principal" : 50000.00}
 		 ]},
-		{"agg_profile_id": 6,
+		{"id": 6,
 		 "branch_code": "CCC",
 		 "datetime_from": "2021-02-01 00:00:00",
 		 "datetime_to": "2021-03-31 00:00:00",
