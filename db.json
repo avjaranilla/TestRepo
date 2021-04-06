@@ -1,6 +1,6 @@
 	{
-	"totalize_api_method": 
-		{"agg_profile_id": 1,
+	"totalize_api_method/1": 
+		{"id": 1,
 		 "branch_code": "AAA",
 		 "datetime_from": "2021-01-01 00:00:00",
 		 "datetime_to": "2021-01-31 00:00:00",
