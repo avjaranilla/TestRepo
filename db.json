@@ -1,7 +1,7 @@
 	{
 	"totalize_api_method":
 		[
-			{"agg_profile_id": 1,
+			{"id": 1,
 			 "branch_code": "AAA",
 			 "datetime_from": "2021-01-01 00:00:00",
 			 "datetime_to": "2021-01-31 00:00:00",
@@ -10,7 +10,7 @@
 				  "total_principal" : 10000}
 				]
 			},
-			{"agg_profile_id": 2,
+			{"id": 2,
 			 "branch_code": "AAA",
 			 "datetime_from": "2021-01-01 00:00:00",
 			 "datetime_to": "2021-01-31 00:00:00",
