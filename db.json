@@ -41,7 +41,7 @@
 			  "final_principal" : 50000}
 		 ]},
 		{"agg_profile_id": 6,
-		 "branch_code": "BBB",
+		 "branch_code": "CCC",
 		 "datetime_from": "03/01/2021 12:00:00",
 		 "datetime_to": "04/01/2021 12:00:00",
 		 "fields": [
