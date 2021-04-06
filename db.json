@@ -1,5 +1,5 @@
-{
-	"totalize_api_method": [
+[{
+	"posts": [
 		{"id": 1, "title": "Post 1", "Description": "test description 1" },
 		{"id": 2, "title": "Post 2", "Description": "test description 2" },
 		{"id": 3, "title": "Post 3", "Description": "test description 3" }
