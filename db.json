@@ -23,6 +23,30 @@
 		 "fields": [
 			 {"final_fee": 300, 
 			  "final_principal" : 30000}
+		 ]},
+		{"agg_profile_id":4,
+		 "branch_code": "BBB",
+		 "datetime_from": "03/01/2021 12:00:00",
+		 "datetime_to": "04/01/2021 12:00:00",
+		 "fields": [
+			 {"final_fee": 400, 
+			  "final_principal" : 40000}
+		 ]},
+		{"agg_profile_id": 5,
+		 "branch_code": "CCC",
+		 "datetime_from": "01/01/2021 12:00:00",
+		 "datetime_to": "02/01/2021 12:00:00",
+		 "fields": [
+			 {"final_fee": 500, 
+			  "final_principal" : 50000}
+		 ]},
+		{"agg_profile_id": 6,
+		 "branch_code": "BBB",
+		 "datetime_from": "03/01/2021 12:00:00",
+		 "datetime_to": "04/01/2021 12:00:00",
+		 "fields": [
+			 {"final_fee": 600, 
+			  "final_principal" : 60000}
 		 ]}
 	],
 	"comments": [
