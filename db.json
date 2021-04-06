@@ -1,20 +1,14 @@
 {
-  "posts":[
-    {
-      "id": 1,
-     "title": "test title 1",
-     "test description 1"
-    },
-    {
-      "id": 2,
-     "title": "test title 2",
-     "test description 2"
-    },
-    {
-     "id": 3,
-     "title": "test title 3",
-     "test description 3"
-    }
-  ]
+	"posts': [
+		{"id": 1, "title": "Post 1", "Description": "test description 1" },
+		{"id": 2, "title": "Post 2", "Description": "test description 2" },
+		{"id": 3, "title": "Post 3", "Description": "test description 3" }
+	],
+	"comments":[
+		{"id": 1, "body": "comment 1", "postId": 1 },
+		{"id": 2, "body": "comment 2", "postId": 1 },
+	],
+	"profile":{
+		"name": "Profile 1"
+	}
 }
-  
