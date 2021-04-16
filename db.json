@@ -83,6 +83,18 @@
 					"total_principal": 7000
 				}
 			]
+		},
+		{
+			"agg_profile_id": 8,
+			"branch_code": "BBB",
+			"datetime_from": "2021-01-31 00:00:00",
+			"datetime_to": "2021-01-31 00:00:00",
+			"fields": [
+				{
+					"total_fee": 80,
+					"total_principal": 8000
+				}
+			]
 		}
 	]
 }
